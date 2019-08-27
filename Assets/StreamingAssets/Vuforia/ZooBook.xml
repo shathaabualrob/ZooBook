@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="frog_video" size="1.000000 1.015625" />
+    <ImageTarget name="frog-sound" size="1.000000 1.007622" />
+    <ImageTarget name="giraffe-video" size="1.000000 1.001534" />
+    <ImageTarget name="horse-sound" size="1.000000 1.004573" />
+    <ImageTarget name="horse-video" size="1.000000 1.006154" />
+    <ImageTarget name="jaguar-video" size="1.000000 0.989062" />
+    <ImageTarget name="iguana-video" size="1.000000 0.989130" />
+    <ImageTarget name="rabbit-videp" size="1.000000 1.013997" />
+    <ImageTarget name="quokka-video" size="1.000000 1.004717" />
+    <ImageTarget name="panda-video" size="1.000000 0.970359" />
+    <ImageTarget name="octopus-video" size="1.000000 0.980000" />
+    <ImageTarget name="vole-video" size="1.000000 0.990640" />
+    <ImageTarget name="urial-video" size="1.000000 0.988976" />
+    <ImageTarget name="tortoise-video" size="1.000000 0.964724" />
+    <ImageTarget name="sheep-video" size="1.000000 1.017241" />
+    <ImageTarget name="sheep-sound" size="1.000000 0.975498" />
+    <ImageTarget name="zebra-video" size="1.000000 1.020537" />
+    <ImageTarget name="yak-video" size="1.000000 1.003082" />
+    <ImageTarget name="walrus-video" size="1.000000 1.015432" />
+    <ImageTarget name="Xerus-video" size="1.000000 0.995290" />
+    <ImageTarget name="walrus-sound" size="1.000000 1.010903" />
+    <ImageTarget name="monkey-sound" size="1.000000 1.015456" />
+    <ImageTarget name="monkey-video" size="1.000000 1.017134" />
+    <ImageTarget name="Numbat-video" size="1.000000 1.012539" />
+    <ImageTarget name="kangaroo-video" size="1.000000 1.013997" />
+    <ImageTarget name="lion-video" size="1.000000 0.983359" />
+    <ImageTarget name="lion-sound" size="1.000000 0.993818" />
+    <ImageTarget name="elephant_video" size="1.000000 1.009346" />
+    <ImageTarget name="elephant-sound" size="1.000000 0.995434" />
+    <ImageTarget name="dog-video" size="1.000000 0.983434" />
+    <ImageTarget name="dog-sound" size="1.000000 0.979011" />
+    <ImageTarget name="cat-video" size="1.000000 1.010786" />
+    <ImageTarget name="cat-sound" size="1.000000 0.989537" />
+    <ImageTarget name="bearVideo" size="1.000000 1.007407" />
+    <ImageTarget name="ant_video" size="1.000000 1.009346" />
+    <ImageTarget name="zooHome" size="1.000000 0.995754" />
+  </Tracking>
+</QCARConfig>
